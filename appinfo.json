@@ -1,0 +1,36 @@
+{
+    "versionLabel": "2.0",
+    "uuid": "0b5ac2ed-32f0-413a-97a6-2f83c90cf56b",
+    "appKeys": {},
+    "longName": "Pitlanesv2",
+    "versionCode": 2,
+    "shortName": "Pitlanesv2",
+    "companyName": "rich32g",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "LOGO_IMAGE",
+                "file": "images/logo.png"
+            },
+            {
+                "type": "font",
+                "name": "FONT_MAIN_FONT_7",
+                "file": "fonts/boombox2.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_MAIN_FONT_15",
+                "file": "fonts/boombox2.ttf"
+            },
+            {
+                "type": "font",
+                "name": "FONT_MAIN_FONT_30",
+                "file": "fonts/boombox2.ttf"
+            }
+        ]
+    }
+}
